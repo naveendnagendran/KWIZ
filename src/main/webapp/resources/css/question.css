@@ -1,0 +1,42 @@
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 591px;
+	min-height: 90px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 33px 200px 377px 169px;
+	background: #FFFFFF url("../images/jeopardy%20image.jpg") no-repeat left top;
+}
+
+#u198-4
+{
+	z-index: 2;
+	width: 591px;
+	min-height: 90px;
+	text-align: center;
+	font-size: 72px;
+	line-height: 86px;
+	color: #F4DCF3;
+	position: relative;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
